@@ -123,8 +123,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabirajdar&show_icons=true&theme=radical" alt="Shraddha GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabirajdar&theme=radical" alt="Shraddha Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GouriPawar&show_icons=true&theme=radical"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabirajdar&theme=radical" alt="Gouri Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabirajdar&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
